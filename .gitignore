@@ -404,3 +404,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.idea/.idea.PracticeKafka/.idea/indexLayout.xml
+/.idea/.idea.PracticeKafka/.idea/projectSettingsUpdater.xml
+/.idea/.idea.PracticeKafka/.idea/vcs.xml
+/.idea/.idea.PracticeKafka/.idea/workspace.xml
